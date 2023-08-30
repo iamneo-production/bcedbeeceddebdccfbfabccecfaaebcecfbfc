@@ -1,0 +1,22 @@
+Aug 30, 2023 9:22:44 AM runner.Base openBrowser
+INFO: Browser Launched
+Aug 30, 2023 9:22:46 AM runner.Base openBrowser
+INFO: Browser Loaded the URL
+Aug 30, 2023 9:22:47 AM runner.Testcase loginTest
+INFO: Browser Navigated to the Web Page
+Aug 30, 2023 9:22:49 AM runner.Testcase afterMethod
+INFO: Browser closed
+Aug 30, 2023 9:22:50 AM runner.Base openBrowser
+INFO: Browser Launched
+Aug 30, 2023 9:22:52 AM runner.Base openBrowser
+INFO: Browser Loaded the URL
+Aug 30, 2023 9:22:52 AM runner.Testcase loginTest
+INFO: Browser Navigated to the Web Page
+Aug 30, 2023 9:22:55 AM runner.Testcase afterMethod
+INFO: Browser closed
+Aug 30, 2023 9:22:56 AM runner.Base openBrowser
+INFO: Browser Launched
+Aug 30, 2023 9:22:57 AM runner.Base openBrowser
+INFO: Browser Loaded the URL
+Aug 30, 2023 9:23:07 AM runner.Testcase afterMethod
+INFO: Browser closed
