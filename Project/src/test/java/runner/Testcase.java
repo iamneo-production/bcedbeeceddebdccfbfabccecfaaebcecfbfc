@@ -144,7 +144,7 @@ public class Testcase extends Base {
                return data;
                
                }
-               @BeforeMethod
+@BeforeMethod
     public void beforeMethod() throws MalformedURLException {
         openBrowser();
         WebDriverListener listener = new EventHandler();

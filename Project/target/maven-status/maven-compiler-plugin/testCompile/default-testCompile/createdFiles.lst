@@ -3,5 +3,5 @@ utils/EventHandler.class
 utils/Reporter.class
 utils/Screenshot.class
 runner/Testcase.class
-utils/LoggerHandler.class
 utils/base64.class
+utils/LoggerHandler.class
