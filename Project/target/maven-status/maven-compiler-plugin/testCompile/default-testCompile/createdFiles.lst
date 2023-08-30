@@ -1,8 +1,6 @@
 runner/Base.class
 utils/EventHandler.class
-runner/.DS_Store
 utils/Reporter.class
-resources/browser.properties
 utils/Screenshot.class
 runner/Testcase.class
 utils/LoggerHandler.class

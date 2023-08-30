@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-30T08:08:57 UTC" name="Surefire suite" finished-at="2023-08-30T08:09:22 UTC" duration-ms="24778">
+  <suite started-at="2023-08-30T08:24:40 UTC" name="Surefire suite" finished-at="2023-08-30T08:25:04 UTC" duration-ms="24156">
     <groups>
     </groups>
-    <test started-at="2023-08-30T08:08:57 UTC" name="Surefire test" finished-at="2023-08-30T08:09:22 UTC" duration-ms="24778">
+    <test started-at="2023-08-30T08:24:40 UTC" name="Surefire test" finished-at="2023-08-30T08:25:04 UTC" duration-ms="24156">
       <class name="runner.Testcase">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:08:57 UTC" name="beforeMethod" finished-at="2023-08-30T08:09:02 UTC" duration-ms="4304" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:24:40 UTC" name="beforeMethod" finished-at="2023-08-30T08:24:44 UTC" duration-ms="3798" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:09:02 UTC" name="loginTest" data-provider="LoginData" finished-at="2023-08-30T08:09:05 UTC" duration-ms="3102" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:24:44 UTC" name="loginTest" data-provider="LoginData" finished-at="2023-08-30T08:24:47 UTC" duration-ms="3158" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -32,15 +32,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:09:05 UTC" name="afterMethod" finished-at="2023-08-30T08:09:05 UTC" duration-ms="452" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:24:47 UTC" name="afterMethod" finished-at="2023-08-30T08:24:47 UTC" duration-ms="411" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:09:05 UTC" name="beforeMethod" finished-at="2023-08-30T08:09:08 UTC" duration-ms="2633" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:24:47 UTC" name="beforeMethod" finished-at="2023-08-30T08:24:50 UTC" duration-ms="2598" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:09:08 UTC" name="loginTest" data-provider="LoginData" finished-at="2023-08-30T08:09:11 UTC" duration-ms="2968" status="PASS">
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:24:50 UTC" name="loginTest" data-provider="LoginData" finished-at="2023-08-30T08:24:53 UTC" duration-ms="2745" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,19 +61,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:09:11 UTC" name="afterMethod" finished-at="2023-08-30T08:09:11 UTC" duration-ms="144" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:24:53 UTC" name="afterMethod" finished-at="2023-08-30T08:24:53 UTC" duration-ms="136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:09:11 UTC" name="beforeMethod" finished-at="2023-08-30T08:09:14 UTC" duration-ms="2647" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:24:53 UTC" name="beforeMethod" finished-at="2023-08-30T08:24:55 UTC" duration-ms="2635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="SearchTest()[pri:2, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:09:14 UTC" name="SearchTest" finished-at="2023-08-30T08:09:22 UTC" duration-ms="8269" status="PASS">
+        <test-method signature="SearchTest()[pri:2, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:24:55 UTC" name="SearchTest" finished-at="2023-08-30T08:25:04 UTC" duration-ms="8455" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase@644baf4a]" started-at="2023-08-30T08:09:22 UTC" name="afterMethod" finished-at="2023-08-30T08:09:22 UTC" duration-ms="154" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase@740cae06]" started-at="2023-08-30T08:25:04 UTC" name="afterMethod" finished-at="2023-08-30T08:25:04 UTC" duration-ms="184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
